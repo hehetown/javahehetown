@@ -1,4 +1,4 @@
-javahehetown-parent°üº¬Èı¸ö×ÓÄ£¿é£¨Maven Module£©£¬·Ö±ğÎªjavahehetown-core¡¢javahehetown-api¡¢javahehetown-webapp,¶ÔÓ¦µÄPackagingÀàĞÍÎªjar¡¢war¡¢war;
-javahehetown-coreÖ÷Òª°üº¬javahehetownµÄºËĞÄÀà£¬Èç³éÏó¹¤³§Àà¡¢¹¤¾ßÀà¡¢Êı¾İ¿âÁ¬½Ó²Ù×÷ÀàµÈµÈ£»
-javahehetown-webappÖ÷Òª°üÀ¨webÏîÄ¿µÄMVCÄ£ĞÍÏÂµÃÀà
-javahehetown-apiÖ÷Òª°üÀ¨¶ÔÍâ½Ó¿Ú£¬Èçrestful API£¬webservice APIµÈµÈ
+javahehetown-parentåŒ…å«ä¸‰ä¸ªå­æ¨¡å—ï¼ˆMaven Moduleï¼‰ï¼Œåˆ†åˆ«ä¸ºjavahehetown-coreã€javahehetown-apiã€javahehetown-webapp,å¯¹åº”çš„Packagingç±»å‹ä¸ºjarã€warã€war;
+javahehetown-coreä¸»è¦åŒ…å«javahehetownçš„æ ¸å¿ƒç±»ï¼Œå¦‚æŠ½è±¡å·¥å‚ç±»ã€å·¥å…·ç±»ã€æ•°æ®åº“è¿æ¥æ“ä½œç±»ç­‰ç­‰ï¼›
+javahehetown-webappä¸»è¦åŒ…æ‹¬webé¡¹ç›®çš„MVCæ¨¡å‹ä¸‹å¾—ç±»
+javahehetown-apiä¸»è¦åŒ…æ‹¬å¯¹å¤–æ¥å£ï¼Œå¦‚restful APIï¼Œwebservice APIç­‰ç­‰
