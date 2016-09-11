@@ -1912,3 +1912,6 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: unexpected 
 	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
 	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
 	... 26 more
+
+!ENTRY org.eclipse.equinox.security 1 0 2016-09-11 23:37:02.908
+!MESSAGE New keyring password generated. 
